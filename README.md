@@ -1,4 +1,4 @@
-# Workshop on NumPy 2.0
+# Workshop on Image Analysis with OpenCV in Python
 
 Taught by Ritika Giri Spring Quarter of 2025 Northwestern University's Research Computing and Data Services as part of the [Aritificial Intelligence for Research](https://github.com/nuitrcs/artificial_intelligence_for_research/tree/main) workshop series.
 
