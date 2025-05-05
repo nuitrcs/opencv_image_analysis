@@ -13,4 +13,4 @@ Taught by Ritika Giri Spring Quarter of 2025 Northwestern University's Research 
 
 #### <br><br>To directly upload a data file onto colab, insert the filename and run the command below:
 
-!wget [https://raw.githubusercontent.com/nuitrcs/opencv_image_analysis/main/data/[filename]](https://raw.githubusercontent.com/nuitrcs/opencv_image_analysis/main/data/%5Bfilename%5D){.uri}
+!wget https://raw.githubusercontent.com/nuitrcs/opencv_image_analysis/main/data/[filename]
