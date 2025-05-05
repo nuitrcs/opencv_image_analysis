@@ -8,7 +8,7 @@ Taught by Ritika Giri Spring Quarter of 2025 Northwestern University's Research 
 -   Unzip the downloaded folder, and double-click on the .ipynb file to open it up in your favorite code editor.
 
 # Google colab link
-- Google Colab notebook [opencv_workshop](https://colab.research.google.com/github/nuitrcs/opencv_image_analysis/blob/main/)opencv_workshop.ipynb
+- Google Colab notebook [opencv_workshop](https://colab.research.google.com/github/nuitrcs/opencv_image_analysis/blob/main/opencv_workshop.ipynb)
 
 
 #### <br><br>To directly upload a data file onto colab, insert the filename and run the command below:
